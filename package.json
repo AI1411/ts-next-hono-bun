@@ -1,0 +1,7 @@
+{
+  "name": "talkapp",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
